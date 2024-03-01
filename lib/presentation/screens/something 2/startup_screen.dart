@@ -6,7 +6,9 @@ class StartUpScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        title: const Text('welcome'),
+      ),
       body: Container(),
     );
   }

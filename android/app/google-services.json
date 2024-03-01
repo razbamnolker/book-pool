@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920517839486",
+    "project_id": "book-pool-rs",
+    "storage_bucket": "book-pool-rs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920517839486:android:7066cd73a7a131ab03262f",
+        "android_client_info": {
+          "package_name": "com.NerdNest.book_pool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_rGkZxozRAfvBwbUUboqS5RVVSgUuNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
